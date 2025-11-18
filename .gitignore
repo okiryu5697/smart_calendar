@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+googleSecrets.txt
+client_secret_1044121558455-i99mgajf1hn1rtmjnmudtnf619cl4ds9.apps.googleusercontent.com.json
+.env
+./public/pics/*
