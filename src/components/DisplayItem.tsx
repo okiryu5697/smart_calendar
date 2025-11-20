@@ -83,7 +83,7 @@ export default function DisplayItem({ type, content, background, fade }: Display
             backgroundColor: "rgba(173,216,230,0.9)",
             zIndex: 1,
             textAlign: "center",
-            fontSize: 32,
+            fontSize: 64,
             fontWeight: "bold",
             fontFamily: "sans-serif"
           }}
